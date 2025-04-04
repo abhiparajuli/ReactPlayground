@@ -27,6 +27,7 @@ function isPrime(number) {
   return true;
 }
 
+//consider removing memo since ConfigureCounter component was created for efficiency
 const Counter = memo( function Counter({ initialCount }) {
   log('<Counter /> rendered', 1);
   const initialCountIsPrime = isPrime(initialCount);
