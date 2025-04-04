@@ -1,0 +1,22 @@
+{
+  "folders": [
+    {
+      "path": "Context-UserReducer"
+    },
+    {
+      "path": "ProjMgmt"
+    },
+    {
+      "path": "SideEffects-useEffect"
+    },
+    {
+      "path": "QuizProject"
+    },
+    {
+      "path": "Counter-BehindTheScenes"
+    }
+  ],
+  "settings": {
+    "prettier.bracketSameLine": false
+  }
+}
