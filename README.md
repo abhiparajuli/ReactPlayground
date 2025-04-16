@@ -13,3 +13,5 @@ Here are the short summaries of all projects under the ReactPlayground workspace
    - A React application that uses context and the `useReducer` hook to manage a shopping cart. The main entry point is `App.jsx`, which provides the cart context to the `Header` and `Shop` components. The shopping cart state is managed in `shopping-cart-context.jsx`, and the cart is displayed in `Cart.jsx` and `CartModal.jsx`.
 5. **Counter-BehindTheScenes**:
    - A React application that demonstrates efficient state management and rendering optimization techniques. The main focus is on the Counter component, which showcases the use of hooks like useState, useMemo, and useCallback to manage state and improve performance.
+6. **HttpRequest Project**
+   - The HttpRequest project is a React application that interacts with a backend server to manage and display user places and available places. The main focus is on making HTTP requests to fetch and update data.
