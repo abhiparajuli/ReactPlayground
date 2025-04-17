@@ -15,3 +15,5 @@ Here are the short summaries of all projects under the ReactPlayground workspace
    - A React application that demonstrates efficient state management and rendering optimization techniques. The main focus is on the Counter component, which showcases the use of hooks like useState, useMemo, and useCallback to manage state and improve performance.
 6. **HttpRequest Project**
    - The HttpRequest project is a React application that interacts with a backend server to manage and display user places and available places. The main focus is on making HTTP requests to fetch and update data.
+7. **Custom Hooks**
+   - The CustomHooks project is a React application that demonstrates the use of custom hooks to manage state and side effects efficiently. The project focuses on reusable and modular components to simplify complex logic.
