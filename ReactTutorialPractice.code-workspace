@@ -17,6 +17,9 @@
     },
     {
       "path": "HttpRequest"
+    },
+    {
+      "path": "CustomHooks"
     }
   ],
   "settings": {
